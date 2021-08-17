@@ -1,3 +1,3 @@
-# Chat Application using web socket technology
+# Chat Application
 
-##This application is used to conversation two user with others.##
+## This application is used to conversation two user with others.Its created using web socket technology.##
